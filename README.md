@@ -1,2 +1,2 @@
-# D_Training_Log_Weather
-Microservice D for Training Log program, this service gets the weather conditions for an activity.
+# D_Training_Log_Weekly_Snapshot
+Microservice D for Training Log program.
